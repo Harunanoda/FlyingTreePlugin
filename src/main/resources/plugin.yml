@@ -1,0 +1,4 @@
+name: FlyingTreePlugin
+version: '${version}'
+main: com.github.harunanoda.FlyingTreePlugin
+api-version: '1.21'
