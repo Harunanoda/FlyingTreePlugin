@@ -1,4 +1,4 @@
 name: FlyingTreePlugin
-version: '${version}'
+version: "${version}"
 main: com.github.harunanoda.FlyingTreePlugin
-api-version: '1.21'
+api-version: "1.21"
